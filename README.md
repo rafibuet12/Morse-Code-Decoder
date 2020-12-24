@@ -1,6 +1,6 @@
 # Morse-Code-Decoder
 
-Used Languages: C, Java-Android
+Used Languages: C++, Java-Android, C (Microprocessor)
 
 A microprocessor project based on ATMega32 microprocessor and Arduino where a hardware decoder is implemented that takes light as input of Morse code signal and then displays the decoded text onto a Digital Display.
 
